@@ -1,5 +1,5 @@
-Bank-Management-Application
-- Banking Services management application
+## Bank-Management-Application
+Banking Services management application
 
 - Faciliating creating of bank customers.
 - Faciliating adding benificiaries
